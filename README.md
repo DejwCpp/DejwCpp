@@ -1,7 +1,7 @@
 # Hi there, I'm Dave - aka DejwCpp 👋
 
 - 💼 I'm the founder of a [programming club][club] at my school
-- 🏹 I’m currently learning Unity && smashing these leetcode alghorithms
+- 🏹 I’m currently learning Unity && smashing these leetcode algorithms
 - 🤙 I’m looking to collaborate with other content creators
 - 🎯 2023 Goal: Solve 200 leetcode problems
 
