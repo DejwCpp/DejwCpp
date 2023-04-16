@@ -2,7 +2,7 @@
 
 - 💼 I'm the founder of a [programming club][club] at my school
 - 🏹 I’m currently learning Unity && smashing these leetcode algorithms
-- 🤙 I’m looking to collaborate with other content creators
+- 🤙 I’m the one who knocks
 - 🎯 2023 Goal: Solve 200 leetcode problems
 
 ### ✨LeetCode✨
